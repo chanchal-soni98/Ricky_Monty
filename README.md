@@ -21,16 +21,16 @@ A web-based character encyclopedia for the **Rick and Morty** universe. This app
 
 ### Main Character Gallery
 
-![Main Page Screenshot]
-![Screenshot (410)](https://github.com/user-attachments/assets/a027b14f-56c2-471c-9f1e-7ea512d6d164)
-![Screenshot (411)](https://github.com/user-attachments/assets/784154e9-a5aa-4603-997f-5fd8eb56b8e8)
+![Main Page Screenshot]![Screenshot (410)](https://github.com/user-attachments/assets/e0087f98-097f-4626-a5b2-62c8b6e53d2b)
+![Screenshot (411)](https://github.com/user-attachments/assets/6f108029-a05f-4a6d-a971-ffff433990cd)
+
 ### Character Detail Page 
- ![Screenshot (412)](https://github.com/user-attachments/assets/1aa4436f-4768-48d7-8266-901edefab61a)
----
+![Screenshot (412)](https://github.com/user-attachments/assets/cdbea3b4-496d-448e-ad3d-94b6819e126c)
+
 
 ## 🛠️ Setup Instructions
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/chanchal-soni98/Rick-And-Monty.git
+   git clone https://github.com/chanchal-soni98/Ricky_Monty.git
    cd rick-and-morty
